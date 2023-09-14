@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programering med micke frågesport", "programering med micke frågesport\programering med micke frågesport.csproj", "{F8799B72-FFF4-499C-96CE-8947B6631017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8799B72-FFF4-499C-96CE-8947B6631017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8799B72-FFF4-499C-96CE-8947B6631017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8799B72-FFF4-499C-96CE-8947B6631017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8799B72-FFF4-499C-96CE-8947B6631017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

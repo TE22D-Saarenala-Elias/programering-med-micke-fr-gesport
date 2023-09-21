@@ -1,32 +1,4 @@
-﻿
-
-
-// Console.WriteLine($"Hello and welcome to my quiz.\n\n" + 
-// " Press enter after each answer to continue. First question is:" +
-// "\n\n    Which city is the capital of sweden?" + 
-// "\n\n1.Malmö\n\n2.Stockholm\n\n3.Gothenburg");
-// string fr1_svar1 = Console.ReadLine().ToLower(); //fr1_svar1 = question1_answer1
-// int points = 0;
-// if (fr1_svar1 == "stockholm" || fr1_svar1 == "2" || fr1_svar1 == "2." )
-// {
-  // points++;
-  // Console.WriteLine("\nStockholm is the right answer +1 point\n" + "You're totale points is " + points + "\n\nWhat does NTI stand for? 1._____ 2._____ 3.No one knows");  
-  
-      // if (fr1_svar1 == "stockholm" || fr1_svar1 == "2" || fr1_svar1 == "2." )
-    // {
-      // points++;
-      // Console.WriteLine("\nStockholm is the right answer +1 point\n" + "You're totale points is " + points + "\n\n");  
-    //  }
-
-//  }
-//  if (fr1_svar1 == "1" || fr1_svar1 == "1." || fr1_svar1 == "malmö" || fr1_svar1 == "3" || fr1_svar1 == "3." || fr1_svar1 == "Gothenburg" )
-//  {
-  // Console.WriteLine("\nThe right answer is Stockholm\n" + "You're totale points is " + points + "\n\n");
-
-//  }
-
-
-int points = 0;
+﻿int points = 0;
 int questionNum = 0;
 string answer;
 
